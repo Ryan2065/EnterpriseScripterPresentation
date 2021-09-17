@@ -1,0 +1,6 @@
+{
+    "DEV": "ValueInDev",
+    "UAT": "ValueInUat",
+    "PROD": "ValueInProd",
+    "Description": "This is my description"
+}
